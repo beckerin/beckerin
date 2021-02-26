@@ -1,7 +1,7 @@
 ### GG ? Welcome!!!
 
-Oh, hello.
-I'm Diego Paiva, Jr Full-Stack developer using VueJS GoLang Kotlin and NodeJS
+**Oh, hello.
+**I'm Diego Paiva, Jr Full-Stack developer using VueJS GoLang Kotlin and NodeJS
 
 ** A litte about myself
 
