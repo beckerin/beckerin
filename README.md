@@ -12,8 +12,8 @@
     <h2> A litte about myself </h2>
 </div>
 
-- 🔭 I’m currently working on [SimpliTech](https://github.com/simplitech)
-- 🌱 I’m currently learning more on VueJS and Kotlin
+- 🔭 I’m currently open to work
+- 🌱 I’m currently learning more on VueJS and Node
 - 💬 Ask me about the anything, i would be happy to help you if i can.
 - 📫 How to reach me: [twitter](https://twitter.com/_brpaiva) [Discord](https://discord.gg/MhHVrAps)
 
