@@ -26,6 +26,7 @@
     </div>
 </div>
 
+<br >
 <div align="center">
     <h2>📑 Tecnologies & Tools</h2>
     <p align="center">
