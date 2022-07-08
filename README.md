@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [Janela Digital](https://www.janeladigital.com/)
 - 🌱 I’m currently learning more on Razors Pages and C#
 - 💬 Ask me about the anything, i would be happy to help you if i can.
-- 📫 How to reach me: [twitter](https://twitter.com/_brpaiva) [Discord](https://discord.gg/MhHVrAps)
+- 📫 How to reach me: [twitter](https://twitter.com/_brpaiva) [Discord](https://discord.gg/MhHVrAps) [Personal Page](https://paivadiego.com.br)
 
 <div align="left">
     <div align="center">
