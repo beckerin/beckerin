@@ -43,8 +43,6 @@
         <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
         <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
         <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-        <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
-        <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
     </p>
 </div>
 
@@ -53,10 +51,13 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/beckerin/">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beckerin&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckerin&layout=compact&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:50%;">
-  </a>
+    <img height="160em" src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin&badges=2" alt="">
+    <div>
+      <a href="https://github.com/beckerin/">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beckerin&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckerin&layout=compact&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:50%;">
+      </a>
+    </div>
 </div>
 
 <div align="center">
