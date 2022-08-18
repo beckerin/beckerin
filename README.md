@@ -15,16 +15,7 @@
 - 🔭 I’m currently working on [Janela Digital](https://www.janeladigital.com/)
 - 🌱 I’m currently learning more on Razors Pages and C#
 - 💬 Ask me about the anything, i would be happy to help you if i can.
-- 📫 How to reach me: [twitter](https://twitter.com/_brpaiva) [Discord](https://discord.gg/MhHVrAps) [Personal Page](https://paivadiego.com.br)
-
-<div align="left">
-    <div align="center">
-        <a href="https://github.com/beckerin?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/beckerin?style=flat&amp;logo=github&amp;label=followers&amp;color=2D76BF">
-            <img align="left" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=beckerin.visitor-badge">
-        </a>
-    </div>
-</div>
+- 📫 How to reach me: [Twitter](https://twitter.com/_brpaiva) [Discord](https://discord.gg/MhHVrAps) [Personal Page](https://paivadiego.com.br)
 
 <br >
 <div align="center">
@@ -45,20 +36,16 @@
         <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </p>
 </div>
+<br>
 
 <div align="center">
-    <h2>📈 My Data and Latest Results on my GitHub</h2>
-</div>
-
-<div align="center">
-    <img height="160em" src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin&badges=2" alt="">
     <div>
-      <a href="https://github.com/beckerin/">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beckerin&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckerin&layout=compact&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:50%;">
-      </a>
+        <img alt="Follow" src="https://img.shields.io/github/followers/beckerin?style=flat&amp;logo=github&amp;label=followers&amp;color=2D76BF">
+        <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=beckerin.visitor-badge">
     </div>
+    <img height="160em" src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin&badges=2" alt="">
 </div>
+
 
 <div align="center">
     <p style="color: blue; font-size: 50px;">Welcome to My GitHub!  </p>
