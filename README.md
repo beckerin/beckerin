@@ -3,7 +3,7 @@
     <p>
         Oh, hello.
         <br>
-        I'm Diego Paiva, Jr Full-Stack developer.
+        I'm Diego Paiva, Full-Stack developer.
         <br>
     </p>
 </div>
