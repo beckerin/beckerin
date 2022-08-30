@@ -43,7 +43,7 @@
         <img alt="Follow" src="https://img.shields.io/github/followers/beckerin?style=flat&amp;logo=github&amp;label=followers&amp;color=2D76BF">
         <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=beckerin.visitor-badge">
     </div>
-    <img height="160em" src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin&badges=2" alt="">
+    <img height="180em" src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin&badges=3" alt="">
 </div>
 
 
