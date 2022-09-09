@@ -1,52 +1,22 @@
-<div align="center">
-    <h2> GG ? Welcome!!!</h2>
-    <p>
-        Oh, hello.
-        <br>
-        I'm Diego Paiva, Full-Stack developer.
-        <br>
-    </p>
-</div>
+### Hi there 👋, I'm **Diego Paiva**
+#### I'm a **full-stack** developer
+![I'm a **full-stack** developer](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin)
 
-<div align="center">
-    <h2> A litte about myself </h2>
-</div>
+- Im a skiller VueJS / React developer 
+- Curently working with Razor MCV,
+- Founder in [SolidK](http://solidktech.com/)
 
-- 🔭 I’m currently working on [Janela Digital](https://www.janeladigital.com/)
-- 🌱 I’m currently learning more on Razors Pages and C#
-- 💬 Ask me about the anything, i would be happy to help you if i can.
-- 📫 How to reach me: [Twitter](https://twitter.com/_brpaiva) [Discord](https://discord.gg/MhHVrAps) [Personal Page](https://paivadiego.com.br) [LinkedIn](https://www.linkedin.com/in/d-paiva/)
+Skills: VUE JS / REACT / JS / HTML / CSS / C#
 
-<br >
-<div align="center">
-    <h2>📑 Tecnologies & Tools</h2>
-    <p align="center">
-        <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-        <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-        <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-        <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-        <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-        <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-        <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    </p>
-</div>
-<br>
-
-<div align="center">
-    <div>
-        <img alt="Follow" src="https://img.shields.io/github/followers/beckerin?style=flat&amp;logo=github&amp;label=followers&amp;color=2D76BF">
-        <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=beckerin.visitor-badge">
-    </div>
-    <img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin" alt="">
-</div>
+- 🔭 I’m currently working on Janela Digital 
 
 
-<div align="center">
-    <p style="color: blue; font-size: 50px;">Welcome to My GitHub!  </p>
-</div>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beckerin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/d-paiva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/d.paiva_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_brpaiva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/beckerin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://paivadiego.com.br)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+![GitHub metrics](https://metrics.lecoq.io/beckerin)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beckerin)  
+
+![Profile views](https://gpvc.arturio.dev/beckerin)  
