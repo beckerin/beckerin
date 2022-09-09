@@ -17,4 +17,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C#
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beckerin)  
 
-![Profile views](https://gpvc.arturio.dev/beckerin)  
+<img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=beckerin.visitor-badge">
