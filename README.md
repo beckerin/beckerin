@@ -4,7 +4,6 @@
 
 - Im a skilled VueJS / React developer 
 - Curently working with Razor MCV,
-- Founder in [SolidK](http://solidktech.com/)
 
 Skills: VUE JS / REACT / JS / HTML / CSS / C#
 
