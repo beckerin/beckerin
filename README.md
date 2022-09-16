@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm **Diego Paiva**
 #### I'm a **full-stack** developer
-<img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin&badges=3" alt="" />
+<img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin&badges=3" loading="lazy"/>
 
 - Im a skilled VueJS / React developer 
 - Curently working with Razor MCV,
