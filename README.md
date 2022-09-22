@@ -5,6 +5,9 @@
 - Curently working with Razor MCV,
 
 Skills: VUE JS / REACT / JS / HTML / CSS / C#
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 - 🔭 I’m currently working on Janela Digital 
 
