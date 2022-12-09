@@ -6,7 +6,7 @@
 
 Skills: VUE JS / REACT / JS / HTML / CSS / C#
 
-- 🔭 I’m currently working at [Fusely.pt](https://Fusely.pt)
+- 🔭 I’m currently working at [Fusely.net](https://fusely.net/pt-pt/)
 
 <img
      width="400"
