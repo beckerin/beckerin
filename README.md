@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm **Diego Paiva**
 #### I'm a **full-stack** developer
 
-- Im a skilled VueJS / React developer 
-- Curently working with Razor MCV,
+- Im a skilled VueJS developer 
+- Curently working with VueJS 
 
 Skills: VUE JS / REACT / JS / HTML / CSS / C#
 
-- 🔭 I’m currently working on Janela Digital 
+- 🔭 I’m currently working at [Fusely.pt](https://Fusely.pt)
 
 <img
      width="400"
