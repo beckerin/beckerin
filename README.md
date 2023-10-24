@@ -2,11 +2,11 @@
 #### I'm a **full-stack** developer
 
 - Im a skilled VueJS developer 
-- Curently working with VueJS 
+- Curently working with VueJS3 
 
 Skills: VUE JS / REACT / JS / HTML / CSS / C#
 
-- 🔭 I’m currently working at [Fusely.pt](https://fusely.net/pt-pt/)
+- 🔭 I’m currently working at [Fusely.net](https://fusely.net/pt-pt/)
 
 <img
      width="400"
