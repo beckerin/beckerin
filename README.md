@@ -8,10 +8,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C#
 
 - 🔭 I’m currently working at [Fusely.net](https://fusely.net/pt-pt/)
 
-<img
-     width="400"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=beckerin&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+![b](https://github.com/beckerin/beckerin/assets/75643495/2033eeea-24fa-494c-a8d8-7092283b3097)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beckerin) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/d-paiva/)
